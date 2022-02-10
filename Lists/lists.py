@@ -1,5 +1,6 @@
 # A list is a collection which is ordered and changeable. 
 # Allows duplicate members
+# Lists usese square brackets []
 
 # Create list
 numbers = [1, 2, 3, 4, 5]
